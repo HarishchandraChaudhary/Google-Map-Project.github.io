@@ -1,0 +1,26 @@
+#id1{
+    color: blue;
+    margin: 0;
+    padding: 12px;
+}
+::placeholder{
+color: green;
+border-radius: 123ch;
+padding: 12px;
+
+}
+
+#a{
+color:green;
+border-radius: 100px;
+margin-top: 200px;
+margin-right: 23px;
+}
+img{
+    border-radius: -10px;
+    text-decoration: none;
+}
+#div{
+    color: blue;
+    text-decoration: underline;
+}
